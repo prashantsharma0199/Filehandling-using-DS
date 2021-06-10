@@ -1,0 +1,6 @@
+RID     Name	    Email Address
+101	    Prashant	prash@gmail.com
+102	    Nilutpol	nilu@gmail.com
+103	    Shriyans	shri@gmail.com
+104		Chandler	bing@gmail.com
+105		Jennifer	jenna@gmail.com
